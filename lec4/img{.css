@@ -1,0 +1,15 @@
+img{
+    border:5px solid black;
+    border-radius: 15px;
+    padding: 5px;
+    width: 1000%
+
+}
+*{
+    box-sizing: border-box;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 90%;
+    justify-content: center;
+}
